@@ -188,7 +188,7 @@ nav.sticky .menu-btn{
 }
 .home .button button:hover{
   border-color: #4070f4;
-  background-color: #fff;
+   background: url(img/OIP.jpg) no-repeat center;
   color: #4070f4;
 }
 
